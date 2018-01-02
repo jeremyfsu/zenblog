@@ -18,8 +18,8 @@ email: walworth@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
    After a traumatic event a few years ago, I began exploring Zen Buddism.
    This blog is about my path of discovery and the things I learned along the way.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/zen" # the subpath of your site, e.g. /blog
+url: "http://jeremywalworth.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jeremyfsu
 github_username: jeremyfsu
 
