@@ -13,15 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: My thoughts on Zen Buddism
+title: My thoughts on Zen Buddhism
 email: walworth@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-   After a traumatic event a few years ago, I began exploring Zen Buddism.
+   After a traumatic event a few years ago, I began exploring Zen Buddhism.
    This blog is about my path of discovery and the things I learned along the way.
 baseurl: "/zen" # the subpath of your site, e.g. /blog
 url: "http://jeremywalworth.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jeremyfsu
 github_username: jeremyfsu
+google_analytics: UA-111789920-1
 
 # Build settings
 markdown: kramdown
